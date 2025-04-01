@@ -1,0 +1,5 @@
+Everdreamers are people who willingly enter a dream-state to acts as conduits between [[The Mortal Realm|the Mortal Realm]] and [[The Land of Dreams|the Land of Dreams]]. While in this state, they are between life and death until their souls naturally wither away.
+
+Traditionally they are partially sealed into infused plaster. Their faces are covered up in the process. To the [[The Holy Ylothian Church|Church]] they are considered to have given the ultimate sacrifice. But as they have to turn away from [[Ylothi]]'s salvation to undergo the process, they are to be henceforth be treated as heretics and have their bodies burnt after their souls are gone.
+
+This has lead to some contention between members of the flock, especially after [[Heretic-Saint Alonith]] underwent the process with the intention to try and convert the Fae.
