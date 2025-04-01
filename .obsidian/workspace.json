@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Notes/MDA/Mechanics.md",
+                "file": "Fluff/World/Religion/Everdreamers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Everdreamers"
             }
           },
           {
@@ -213,6 +213,7 @@
   },
   "active": "d673fcfdc57bba3e",
   "lastOpenFiles": [
+    "Game Design Notes/MDA/Mechanics.md",
     "Fluff/Characters/Player.md",
     "Fluff/World/Religion/Deities/The Father Above.md",
     "Fluff/World/Religion/Deities/The Mother Below.md",
@@ -230,7 +231,6 @@
     "Introduction.md",
     "Game Design Notes/Themes.md",
     "Game Design Notes/Blurb.md",
-    "Game Design Notes/MDA/Mechanics.md",
     "Game Design Notes/MDA/Dynamics.md",
     "Game Design Notes/MDA/Aesthetics.md",
     "Game Design Notes/World Graph.canvas",
