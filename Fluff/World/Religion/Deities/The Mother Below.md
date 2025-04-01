@@ -1,0 +1,1 @@
+she disagreed then died
