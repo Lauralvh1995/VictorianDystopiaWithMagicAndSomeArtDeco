@@ -1,0 +1,1 @@
+When the Great Mother was slain after her "betrayal", Her flesh was shaped into the land, and Her blood formed the oceans.
