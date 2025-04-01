@@ -1,1 +1,1 @@
-Officially known as "Good Saint Heseth's Embrace Correctional Facility"
+Officially known as "Good [[Saint Heseth]]'s Embrace Correctional Facility"

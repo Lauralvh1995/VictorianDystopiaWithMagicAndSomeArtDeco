@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluff/Characters/Player.md",
+                "file": "Fluff/World/The City/Government Buildings and Agencies/Calvarian Halls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player"
+              "title": "Calvarian Halls"
             }
           }
         ],
@@ -214,20 +214,21 @@
   "active": "4721666e6d93cc48",
   "lastOpenFiles": [
     "Fluff/World/Religion/The Holy Ylothian Church.md",
-    "Fluff/World/Religion/Deities/The Father Above.md",
-    "Fluff/World/Religion/Deities/The Mother Below.md",
-    "Fluff/World/Religion/Deities/Ylothi.md",
     "Fluff/World/Religion/Saints/Saint Heseth.md",
-    "Fluff/World/The City/Government Buildings and Agencies/Calvarian Halls.md",
-    "Fluff/World/Religion/Saints",
-    "Fluff/World/Religion/Deities",
-    "Fluff/World/The City/The City of InsertNameHere.md",
-    "Fluff/World/The City/Government Buildings and Agencies",
-    "Fluff/World/Religion",
+    "Fluff/World/Religion/Deities/Ylothi.md",
+    "Fluff/World/Religion/Deities/The Mother Below.md",
+    "Fluff/World/Religion/Deities/The Father Above.md",
     "Fluff/World/The Otherworlds/The Land of Dreams.md",
     "Fluff/World/The Otherworlds/The High Heavens.md",
     "Fluff/World/The Otherworlds/The Harrowing Hells.md",
-    "Fluff/World/The World.md",
+    "Fluff/World/The Mortal Realm.md",
+    "Fluff/World/The City/Government Buildings and Agencies/Calvarian Halls.md",
+    "Fluff/World/The City/The City of InsertNameHere.md",
+    "Fluff/Characters/Player.md",
+    "Fluff/World/Religion/Saints",
+    "Fluff/World/Religion/Deities",
+    "Fluff/World/The City/Government Buildings and Agencies",
+    "Fluff/World/Religion",
     "Fluff/World/The Otherworlds",
     "Fluff/World/The City/Shantytowns/Common Virtue.md",
     "Fluff/World/The City/Districts/Energy.md",
@@ -243,7 +244,6 @@
     "Fluff/World/The City/Districts/Neighbourhoods/Sloth.md",
     "Fluff/World/The City/Districts/Neighbourhoods/Pride.md",
     "Fluff/World/The City/Districts/Neighbourhoods/Lust.md",
-    "Fluff/World/The City/Districts/Neighbourhoods/Greed.md",
     "Fluff",
     "Game Design Notes/MDA",
     "Game Design Notes/World Graph.canvas",
