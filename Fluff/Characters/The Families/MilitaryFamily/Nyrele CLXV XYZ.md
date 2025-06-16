@@ -1,3 +1,5 @@
+"Your defeat is not a question of 'If'. It is '*When*'"
+
 AKA "Nyrele of the Many Graves" or "Nyrele of the Thousand Graves" or "Nyrele the Eternal"
 
 The Last Elf. 

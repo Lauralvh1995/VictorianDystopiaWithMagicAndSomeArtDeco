@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "d673fcfdc57bba3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluff/Characters/The Families/MilitaryFamily/Nyrele CLXV XYZ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nyrele CLXV XYZ"
-            }
-          },
-          {
             "id": "f3ceb5acebb007ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluff/Characters/The Families/MilitaryFamily/Nyrele CLXV XYZ.md",
+                "file": "Fluff/Characters/The Families/EntertainmentFamily/FamilyHead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nyrele CLXV XYZ"
+              "title": "FamilyHead"
             }
           },
           {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,10 +213,12 @@
   },
   "active": "f3ceb5acebb007ae",
   "lastOpenFiles": [
+    "Fluff/Characters/The Families/MilitaryFamily/Nyrele CLXV XYZ.md",
+    "Fluff/World/Religion/Deities/The Mother Below.md",
+    "Fluff/Characters/The Families/EntertainmentFamily/FamilyHead.md",
     "Fluff/Characters/The Families/MilitaryFamily/The XYZ Family.md",
     "Fluff/World/Big Events/The Day a Star Fell.md",
     "Fluff/World/The Otherworlds/The Harrowing Hells.md",
-    "Fluff/Characters/The Families/MilitaryFamily/Nyrele CLXV XYZ.md",
     "Fluff/World/The City/Government Buildings and Agencies/Calvarian Halls.md",
     "Fluff/World/The City/Districts/Untitled.md",
     "Fluff/World/The City/Districts/Water",
@@ -248,7 +236,6 @@
     "Fluff/World/Religion/Everdreamers.md",
     "Fluff/World/Religion/The Holy Ylothian Church.md",
     "Fluff/World/Religion/Deities/The Father Above.md",
-    "Fluff/World/Religion/Deities/The Mother Below.md",
     "Fluff/World/The Mortal Realm.md",
     "Fluff/World/The Otherworlds/The High Heavens.md",
     "Fluff/World/The Otherworlds/The Land of Dreams.md",
