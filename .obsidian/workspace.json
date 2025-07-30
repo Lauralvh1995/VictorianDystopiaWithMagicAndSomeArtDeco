@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Notes/Powerups/Gun.md",
+                "file": "Fluff/World/The City/Churches/Hidden Church.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gun"
+              "title": "Hidden Church"
             }
           },
           {
@@ -213,6 +213,19 @@
   },
   "active": "f3ceb5acebb007ae",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "Fluff/World/The City/Churches/Hidden Church.md",
+    "README.md",
+    "Fluff/World/Religion/Deities/README.md",
+    "Fluff/World/The City/Shantytowns/Lanes.md",
+    "Fluff/World/The City/Churches",
+    "Fluff/World/The City/Government Buildings and Agencies/Calvarian Halls.md",
+    "Fluff/World/The City/Shantytowns/Adikean Row.md",
+    "Fluff/World/The City/The City of InsertNameHere.md",
+    "Game Design Notes/Powerups/Arm Blade.md",
+    "Game Design Notes/Powerups/Gun.md",
+    "Game Design Notes/Powerups/Metal Legs.md",
+    "Game Design Notes/Powerups/Wooden Legs.md",
     "game-design-notes/mda/README.md",
     "game-design-notes/README.md",
     "game-design-notes/mda",
@@ -224,7 +237,6 @@
     "Fluff/World/the-city/government-buildings-and-agencies",
     "Fluff/World/the-city",
     "Fluff/World/Religion/Saints/README.md",
-    "Fluff/World/Religion/Deities/README.md",
     "Fluff/World/Religion/README.md",
     "Fluff/World/big-events/README.md",
     "Fluff/World/big-events",
@@ -237,18 +249,6 @@
     "Fluff/Characters/the-families",
     "Fluff/Characters/README.md",
     "Fluff/README.md",
-    "SUMMARY.md",
-    "README.md",
-    "Game Design Notes/Powerups/Arm Blade.md",
-    "Game Design Notes/Powerups/Gun.md",
-    "Game Design Notes/Powerups/Metal Legs.md",
-    "Game Design Notes/Powerups/Wooden Legs.md",
-    "Game Design Notes/MDA/Mechanics.md",
-    "Game Design Notes/Powerups",
-    "Fluff/World/The City/Government Buildings and Agencies/Hidden Church.md",
-    "Fluff/World/The City/Shantytowns/Adikean Row.md",
-    "Fluff/World/Religion/Saints/Heretic-Saint Alonith.md",
-    "Fluff/Characters/The Families/EntertainmentFamily/FamilyHead.md",
     "Game Design Notes/World Graph.canvas"
   ]
 }
