@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Notes/Powerups/Dash.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dash"
+              "title": "Introduction"
             }
           }
         ],
@@ -213,8 +213,8 @@
   },
   "active": "4721666e6d93cc48",
   "lastOpenFiles": [
-    "Game Design Notes/WorldGraphV1.png",
     "Game Design Notes/Powerups/Dash.md",
+    "Game Design Notes/WorldGraphV1.png",
     "Fluff/World/The City/Shantytowns/Alleyways/Alleyways.md",
     "Fluff/World/The City/Shantytowns/Alleyways",
     "Fluff/World/The City/Shantytowns/Lanes",
