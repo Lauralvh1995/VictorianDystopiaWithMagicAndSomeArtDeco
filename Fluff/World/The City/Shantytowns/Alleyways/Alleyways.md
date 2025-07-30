@@ -1,0 +1,1 @@
+Small streets hidden between taller apartments
