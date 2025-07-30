@@ -53,12 +53,14 @@
             "id": "4721666e6d93cc48",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Game Design Notes/WorldGraphV1.png"
+                "file": "Game Design Notes/Powerups/Dash.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "WorldGraphV1"
+              "icon": "lucide-file",
+              "title": "Dash"
             }
           }
         ],
@@ -211,11 +213,12 @@
   },
   "active": "4721666e6d93cc48",
   "lastOpenFiles": [
+    "Game Design Notes/WorldGraphV1.png",
+    "Game Design Notes/Powerups/Dash.md",
     "Fluff/World/The City/Shantytowns/Alleyways/Alleyways.md",
     "Fluff/World/The City/Shantytowns/Alleyways",
     "Fluff/World/The City/Shantytowns/Lanes",
     "Fluff/World/The City/Shantytowns/Adikean Row",
-    "Game Design Notes/WorldGraphV1.png",
     "Fluff/World/The Mortal Realm.md",
     "Fluff/World/The City/Shantytowns/Lanes/Lanes.md",
     "Fluff/World/The City/Shantytowns/Adikean Row/Adikean Row.md",
@@ -246,7 +249,6 @@
     "Fluff/World/the-city/government-buildings-and-agencies/README.md",
     "Fluff/World/the-city/README.md",
     "Fluff/World/Religion/Saints/README.md",
-    "Fluff/World/Religion/README.md",
-    "Fluff/World/big-events/README.md"
+    "Fluff/World/Religion/README.md"
   ]
 }
