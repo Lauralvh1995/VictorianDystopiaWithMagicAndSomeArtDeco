@@ -1,1 +1,1 @@
-placeholder
+Church created by followers of [Ylothi](Deities/Ylothi.md) in the wake of their [ascendance](../Big%20Events/Ylothi's%20Ascendance.md).

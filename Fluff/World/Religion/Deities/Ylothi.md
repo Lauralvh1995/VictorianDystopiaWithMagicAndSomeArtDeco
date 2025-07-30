@@ -1,1 +1,1 @@
-placeholder
+Mortal that ascended to [The High Heavens](../../The%20Otherworlds/The%20High%20Heavens.md) through their own power and sacrifice.

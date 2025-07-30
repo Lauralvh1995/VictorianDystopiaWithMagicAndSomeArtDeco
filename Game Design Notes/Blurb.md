@@ -1,1 +1,1 @@
-placeholder
+"When the world is corrupted to the core. *Burn it down*"

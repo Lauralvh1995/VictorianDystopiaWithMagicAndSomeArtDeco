@@ -1,1 +1,1 @@
-placeholder
+Male creator deity. Alive. Holed up in [The High Heavens](../../The%20Otherworlds/The%20High%20Heavens.md)
