@@ -1,1 +1,1 @@
-placeholder
+Mechanics according to MDA Framework

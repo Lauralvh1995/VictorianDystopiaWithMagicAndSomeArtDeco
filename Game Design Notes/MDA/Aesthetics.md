@@ -1,1 +1,1 @@
-placeholder
+Aesthetics according to MDA Framework, with, among other things, the 8 Kinds of Fun
