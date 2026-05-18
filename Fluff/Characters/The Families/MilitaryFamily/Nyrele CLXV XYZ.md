@@ -1,6 +1,11 @@
+---
+title: Nyrele
+subtitle: The Last Elf, Nyrele of the Thousand Graves, Nyrele the Eternal
+image: placeholder.png
+game-info: "[[../../../../Game Design Notes/Bosses/Nyrele CLXV|Nyrele CLXV]]"
+tags: []
+---
 "Your defeat is not a question of 'If'. It is '*When*'"
-
-AKA "Nyrele of the Many Graves" or "Nyrele of the Thousand Graves" or "Nyrele the Eternal"
 
 The Last Elf. 
 
